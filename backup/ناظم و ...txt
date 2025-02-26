@@ -1,0 +1,65 @@
+        <!--Testimonials Section Start-->
+        <section class="testimonials pt-100 pb-100" style="background-image: url('images/background/testimonials-bg.jpg')">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-10 offset-lg-1">
+                        <div class="owl-carousel owl-theme text-center">
+                            <!--Testimonials Item-->
+                            <div class="testimonial-item">
+                                <div class="author-img">
+                                    <img src="images/testimonial/img-1.jpg" alt="">
+                                </div>
+                                <h5>امین سبحانی</h5>
+                                <span>مدیر مجموعه</span>
+                                <p>آقای امین سبحانی، مدیر مدرسه نگاه نو، با رویکردی خلاقانه و دلسوزانه محیطی پویا برای رشد دانش‌آموزان فراهم کرده است. تلاش‌های او در بهبود کیفیت آموزشی و تربیتی همواره مورد تحسین قرار گرفته است. </p>
+                            </div>
+                            <!--Testimonials Item-->
+                            <div class="testimonial-item">
+                                <div class="author-img">
+                                    <img src="images/testimonial/img-2.jpg" alt="">
+                                </div>
+                                <h5>مرتضی عیسی</h5>
+                                <span>مشاور پایه هفتم و هشتم</span>
+                                <p>مرتضی عیسی، مشاور پایه هفتم و هشتم مدرسه نگاه نو، با راهنمایی‌های دلسوزانه و حمایت مستمر، دانش‌آموزان را در مسیر پیشرفت تحصیلی و فردی همراهی می‌کند. تلاش او در ایجاد فضایی امن و انگیزشی برای دانش‌آموزان چشمگیر است. </p>
+                            </div>
+                            <!--Testimonials Item-->
+                            <div class="testimonial-item">
+                                <div class="author-img">
+                                    <img src="images/testimonial/img-3.jpg" alt="">
+                                </div>
+                                <h5>محمد امین حدادی</h5>
+                                <span>مشاور پایه نهم</span>
+                                <p>آقای حدادی، مشاور پایه نهم مدرسه نگاه نو، با تجربه و دلسوزی، دانش‌آموزان را در مسیر تصمیم‌گیری‌های تحصیلی و شخصی راهنمایی می‌کند. نقش او در آماده‌سازی دانش‌آموزان برای آینده‌ای روشن و موفق بسیار ارزشمند است.</p>
+                            </div>
+                            <!--Testimonials Item-->
+                            <div class="testimonial-item">
+                                <div class="author-img">
+                                    <img src="images/testimonial/img-4.jpg" alt="">
+                                </div>
+                                <h5>محمد نوروزی</h5>
+                                <span>معاون انظباتی پایه هفتم و هشتم</span>
+                                <p>آقای نوروزی، معاون انضباطی پایه هفتم و هشتم مدرسه نگاه نو، با جدیت و دلسوزی در برقراری نظم و مسئولیت‌پذیری دانش‌آموزان نقش مهمی ایفا می‌کند. تلاش او در ایجاد محیطی منظم و احترام‌آمیز، تأثیر مثبتی بر فضای مدرسه دارد..</p>
+                            </div>
+                            <!--Testimonials Item-->
+                            <div class="testimonial-item">
+                                <div class="author-img">
+                                    <img src="images/testimonial/img-5.jpg" alt="">
+                                </div>
+                                <h5>محمد حسن کامبخش</h5>
+                                <span>معاون انظباتی پایه نهم</span>
+                                <p>جناب آقای کامبخش، معاون انضباطی پایه نهم مدرسه نگاه نو، با دقت و پشتکار در ایجاد نظم و مسئولیت‌پذیری در بین دانش‌آموزان نقش مؤثری دارد. تلاش او برای حفظ محیطی منظم و سازنده، به بهبود فضای آموزشی کمک کرده است..</p>
+                            </div>
+                            <!--Testimonials Item-->
+                            <div class="testimonial-item">
+                                <div class="author-img">
+                                    <img src="images/testimonial/img-6.jpg" alt="">
+                                </div>
+                                <h5>علیرضا گلستان</h5>
+                                <span>معاون تربیتی</span>
+                                <p>آقای گلستان، معاون انضباطی مدرسه نگاه نو، با جدیت و مسئولیت‌پذیری، محیطی منظم و آرام برای دانش‌آموزان ایجاد کرده است. تلاش او در حفظ نظم و تقویت ارزش‌های اخلاقی، تأثیر مثبتی بر فضای مدرسه دارد..</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
